@@ -9,6 +9,7 @@
 - Trail mix
 - Disinfectant
 - Cutting Knife
+- Food from shopping
 
 ## Calvin
 - Pots
