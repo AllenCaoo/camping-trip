@@ -67,6 +67,12 @@
 - Tickets for train
 - Tickets for Zoo
 
+### Costco Items
+- Tomatoes
+- Lettuce (for sandwitch)
+- Ham/Turkey slices
+- Kirkland Croissants
+
 ### Things to get on the way
 - Pack of water
 
@@ -74,7 +80,7 @@
 ### Day 1 (July 2)
 | Time         | Activity    |
 | :----        |:----        |
-|9:30 AM       |Allen and Shen get food.|
+|9:30 AM       |Wake up and prepare to go to Zhang's house.|
 |12:00 PM      |Everyone arrive at Zhang's house to pack car. Eat own lunch.|
 |2:00 PM       |Get to Zhang’s house. Pack stuff up and leave.|
 |2:00-6:00 PM  |Drive to Folsom. Maybe stop at safeway before heading on freeway for pack of water.| 
