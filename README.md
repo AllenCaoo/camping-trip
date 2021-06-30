@@ -1,5 +1,5 @@
 # Camping Trip
-## What to
+## What to bring
 
 ### Allen
 - Med kit (band-aids, disinfectant, hand sanitizer, gauze, anti-itch cream, alcohol pads)
