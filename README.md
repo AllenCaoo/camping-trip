@@ -36,6 +36,8 @@
 - Watermelon
 - Food from shopping
 - 凉面
+- Pasta + sauce
+- Cold noodles
 
 ### Ying-Li
 - dishwashing stuff
