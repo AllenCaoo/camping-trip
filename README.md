@@ -123,7 +123,7 @@
 |8:00-10:00 AM |Wake up.|
 |Whenever - 11:30 AM|Finish packing up everything|
 |11:30 AM|Head out of campsite.|
-|11:30 AM - | Eat lunch. Drive.| 
+|11:30 AM - | Eat lunch. Drive home.| 
 
 
 
