@@ -11,6 +11,8 @@
 - Disinfectant
 - Cutting Knife
 - Food from shopping
+- Cheese slices
+- Parmesian cheese
 
 ### Calvin
 - Pots
@@ -72,6 +74,7 @@
 - Lettuce (for sandwitch)
 - Ham/Turkey slices
 - Kirkland Croissants
+- Sandwitch cheese slices
 
 ### Things to get on the way
 - Pack of water
