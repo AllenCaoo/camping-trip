@@ -72,14 +72,16 @@
 ### Day 1
 | Time        | Activity    |
 | :---        |:----        |
-|2:00         |Get to Zhang’s house. Pack stuff up and leave.|
-|2:00-6:00    |Drive to Folsom. Maybe stop at safeway before heading on freeway for pack of water.| 
-|6:00-7:00    |Set up basic stuff, most importantly fire and tent.|
-|7:00-8:00    |Cook and Eat dinner.|
-|8:00-9:00    |Finish setting up stuff if need, otherwise chill time.|
-|9:00-10:00   |Chill time.|
-|10:00-11:00  |Shower and get ready for bed.|
-|11:00        |Preferably sleep because we should be waking up early for stuff.|
+|9:30       |Allen and Shen get food.|
+|12:00 PM     |Everyone arrive at Zhang's house to pack car. Eat own lunch.|
+|2:00 PM      |Get to Zhang’s house. Pack stuff up and leave.|
+|2:00-6:00 PM |Drive to Folsom. Maybe stop at safeway before heading on freeway for pack of water.| 
+|6:00-7:00 PM |Set up basic stuff, most importantly fire and tent.|
+|7:00-8:00 PM |Cook and Eat dinner.|
+|8:00-9:00 PM |Finish setting up stuff if need, otherwise chill time.|
+|9:00-10:00 PM|Chill time.|
+|10:00-11:00 PM|Shower and get ready for bed.|
+|11:00 PM     |Preferably sleep because we should be waking up early for stuff.|
 
 
 
