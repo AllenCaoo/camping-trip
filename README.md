@@ -75,9 +75,8 @@
 - Ham/Turkey slices
 - Kirkland Croissants
 - Sandwitch cheese slices
-
-### Things to get on the way
 - Pack of water
+- Big plastic water jug
 
 ## Schedule
 ### Day 1 (July 2)
@@ -88,7 +87,7 @@
 |2:00 PM       |Get to Zhang’s house. Pack stuff up and leave.|
 |2:00-6:00 PM  |Drive to Folsom. Maybe stop at safeway before heading on freeway for pack of water.| 
 |6:00-7:00 PM  |Set up basic stuff, most importantly fire and tent.|
-|7:00-8:00 PM  |Cook and Eat dinner.|
+|7:00-8:00 PM  |Cook and Eat dinner (ramen).|
 |8:00-9:00 PM  |Finish setting up stuff if need, otherwise chill time.|
 |9:00-10:00 PM |Chill time.|
 |10:00-11:00 PM|Shower and get ready for bed.|
@@ -106,7 +105,7 @@
 |2:00-3:00 PM|Drive to Adventure sports kayak rental (54 min drive).|
 |3:00-5:00 PM|Kayak, swim maybe (I’d prefer not to swim due to cyanobacteria toxicity concerns, amoeba, other nasty parasites, etc.)|
 |5:00-6:00 PM|Drive back.|
-|6:00-7:00 PM|Make and eat dinner.|
+|6:00-7:00 PM|Make and eat dinner (hot dogs).|
 |7:00-9:00 PM|Chill time.|
 |9:00-11:00 PM|Night hike, come back and make s’mores (no chocolate of course).|
 |11:00-11:59 PM |Get ready for bed.|
