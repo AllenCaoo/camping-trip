@@ -1,5 +1,5 @@
 # Camping Trip
-## What to bring
+## What to Bring
 
 ### Allen
 - Med kit (band-aids, disinfectant, hand sanitizer, gauze, anti-itch cream, alcohol pads)
@@ -50,17 +50,20 @@
 
 ### Everyone (some optional)
 - Tarp/blankets/sleeping bags
+- Pillow
+- Toothbrush
+- Toothpaste
 - Sunscreen
 - Bug spray
 - Disinfectant
 - One plastic bag per person for dirty clothes
 - Hand sanitizer
 - Multiple changes of clothes 
-- Towels + sandals/flip flops for showering
-- Toothbrush
-- Toothpaste
+- Towels
+- andals/flip flops for showering
 - Multiple bars of soap
-- A small cup
+- A small cup (or use Calvin's cups/water bottle)
+- Earplugs
 - Portable charger
 - Wallet
 - Camping chairs
@@ -69,7 +72,7 @@
 - Tickets for train
 - Tickets for Zoo
 
-### Costco Items
+### Costco Items to Buy
 - Tomatoes
 - Lettuce (for sandwitch)
 - Ham/Turkey slices
@@ -77,6 +80,7 @@
 - Sandwitch cheese slices
 - Pack of water
 - Big plastic water jug
+- Cooler Ice
 
 ## Schedule
 ### Day 1 (July 2)
