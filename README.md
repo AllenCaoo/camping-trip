@@ -114,11 +114,10 @@
 ### Day 3 (July 4)
 |Time | Activity|
 |:----|:----|
-|8:00-9:00 AM |Rise n’ shine.|
-|9:00-10:00 AM |Make, eat breakfast.|
-|10:00-11:00 AM |Go to Train Museum.|
-|11:00-11:59 AM |Train Ride at 11:30. In the meantime explore area/museum.|
-|12:00-2:00 PM |Look for lunch spot and eat (Thai place).| 
+|6:30-7:30 AM |Rise n’ shine + Make, eat breakfast.|
+|7:30-10:00 AM |Go to Train Museum.|
+|10:00-11:00 AM |Train Ride at 10:00. In the meantime explore area/museum.|
+|11:00 AM-2:00 PM |Look for lunch spot and eat (Thai place). Walk around and explore Sacromento.| 
 |2:00-4:00 PM |Explore zoo.|
 |4:00-7:00 PM |Walk around Sacramento.|
 |7:00-9:00 PM |Go find dinner place and eat.|
