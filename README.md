@@ -19,6 +19,7 @@
 - Pan
 - 2 packs of cards
 - Cups
+- Paper plates and bowls
 - One loaf of sourdough bread
 - One loaf of white bread
 
@@ -27,7 +28,6 @@
 - Propane bottles
 - Fire starter
 - Tent + stakes
-- Paper plates and bowls
 - Lots of plastic utensils + napkins
 - Tickets for train
 - Tickets for Zoo
